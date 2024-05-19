@@ -62,7 +62,7 @@ function App() {
           </div>
         </div>
       <footer className="footer">
-        <h5>Created by: Albert Celestino | May 18, 2024</h5>
+        <h5>Created by: Albert Celestino | May 19, 2024</h5>
         <h5 style={{textAlign: "center"}}>
           Project on 
           <span>
